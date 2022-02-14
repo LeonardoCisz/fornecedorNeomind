@@ -1,0 +1,5 @@
+com\desafio\fornecedor\entities\Fornecedor.class
+com\desafio\fornecedor\model\ConexaoPostgresql.class
+com\desafio\fornecedor\repository\FornecedorRepository.class
+com\desafio\fornecedor\model\ConexaoJDBC.class
+com\desafio\fornecedor\resource\FornecedorResource.class
