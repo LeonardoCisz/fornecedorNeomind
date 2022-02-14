@@ -1,0 +1,5 @@
+package com.desafio.fornecedor.repository;
+
+public class FornecedorRepository {
+
+}

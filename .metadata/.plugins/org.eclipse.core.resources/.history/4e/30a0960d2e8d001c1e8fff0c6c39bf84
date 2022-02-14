@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body ng-app="fornec">
+
+	<h1>Hero wold</h1>
+	<div ng-controller="ChamadoController as controller">
+		1 + 2 = {{1+2}}
+		olá {{controller.usuario}}
+	</div>
+	<script src="resources/angular.js"></script>
+</body>
+</html>
