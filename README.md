@@ -18,7 +18,7 @@ Necessitamos que seja criado um webservice em REST para devolver os dados de nos
  1. Realizar o clone do repositório
  2. Maven > update project
  3. Run > Run as > Maven Build
- 3.1. Goal > clean install / skip test
- 4. Na view Servidor no eclipse, adicionar um novo servidor Apache Tomcat v10.0
- 4.1. Ao definir um novo servidor, selecionar o snapshot gerado pela build
+ 4. Goal > clean install / skip test
+ 5. Na view Servidor no eclipse, adicionar um novo servidor Apache Tomcat v10.0
+ 6. Ao definir um novo servidor, selecionar o snapshot gerado pela build
  5. Ao iniciar o servidor, a página http://localhost:8080/desafioFornecedor/ ficará disponível
