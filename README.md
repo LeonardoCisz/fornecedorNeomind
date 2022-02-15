@@ -7,7 +7,7 @@ Necessitamos que seja criado um webservice em REST para devolver os dados de nos
 # Notas
 
  - Foi utilizado o Maven para a compilação do projeto
- - Para o armazenamento de dados foi utilizado o banco em memória HashMap. **HashMap Java** armazena os dados na forma de valor chave pares em que os dados principais devem ser exclusivos. Podemos acessar os valores com base nos dados-chave correspondentes.
+ - Para o armazenamento de dados foi utilizado o HashMap. **HashMap Java** armazena os dados na forma de valor chave pares em que os dados principais devem ser exclusivos. Podemos acessar os valores com base nos dados-chave correspondentes.
  - Backend foi utilizado Jersey Rest API
  - Frontend foi utilizado AngularJs e Bootstrap
  - Como servidor da aplicação, foi utilizado o Apache Tomcat v10.0
